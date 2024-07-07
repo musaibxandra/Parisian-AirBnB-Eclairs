@@ -30,7 +30,7 @@ The Goal is to figure out:
 
 The dataset has a multiple table structure with "279712 rows × 33 columns" our main work evolves around listings.csv, this dataset is available in the paris_data folder.
 
-The Relevant Information required to performed the task include:
+The Relevant Information required to perform the task include:
 
 ![My Local Image](tableau_&_python_imgs/snap1.png)
 
