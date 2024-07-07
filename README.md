@@ -17,7 +17,7 @@ As AirBnB's popularity has surged, it has increasingly become the focus of regul
 
 You've been tasked to analyze Paris listings, with a focus on pricing. Management seeks graphical overview of factors influencing pricing and whether the regulations implemented in 2015 impacted listings in the Paris.
 
-# Objective
+# Objectiv3
 
 The Goal is to figure out:
 
@@ -30,13 +30,9 @@ The Goal is to figure out:
 
 The dataset has a multiple table structure with "279712 rows × 33 columns" our main work evolves around listings.csv, this dataset is available in the paris_data folder.
 
-Data Files:
- - 'Listings_data_dictionary.csv'z
-
-
 The Relevant Information required to performed the task include:
 
-------- image --------
+![My Local Image](tableau_&_python_imgs/snap1.png)
 
 # Data Cleaning and Preparation
 
