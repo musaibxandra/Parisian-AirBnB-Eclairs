@@ -75,6 +75,7 @@ For this Project i've used Python with jupyter notebook to:
 - Its Observed that Property types with bigger homes tend to get consistenly higher rating score.
 
 
+
 ![My Local Image](tableau_&_python_imgs/work_img.png)
 
 
