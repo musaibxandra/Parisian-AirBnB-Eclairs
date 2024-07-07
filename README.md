@@ -17,7 +17,7 @@ As AirBnB's popularity has surged, it has increasingly become the focus of regul
 
 You've been tasked to analyze Paris listings, with a focus on pricing. Management seeks graphical overview of factors influencing pricing and whether the regulations implemented in 2015 impacted listings in the Paris.
 
-# Objectiv3
+# Objective
 
 The Goal is to figure out:
 
