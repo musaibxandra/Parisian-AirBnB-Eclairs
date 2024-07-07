@@ -49,12 +49,12 @@ For this Project i've used Python with jupyter notebook to:
 - Is there any chance the Regulations Implemented in 2015 impacted the listings in Paris?
   #### It is most likely the case that the property regulations implemented in 2015 impacted the listings in Paris. Airbnb Listings Over Time:
 
-![My Local Image](tableau_&_python_imgs/Airbnb Listings in Paris Over Time.png)
+![My Local Image](tableau_&_python_imgs/main.png)
   
 - Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
   #### Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing. Average Price by Accommodations:
 
-![My Local Image](tableau_&_python_imgs/3.png)
+![My Local Image](tableau_&_python_imgs/2.png)
 
 - The most Expensive Neighbourhood
   #### From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
@@ -76,8 +76,8 @@ For this Project i've used Python with jupyter notebook to:
 ### Breif overview:
 
 - It is likely the property regulations implemented in 2015 impacted the listings in Paris.
-- Its appears that the number of Accomodations indeed have an effect on Price
-- 'Elysee' is the expensive neighbourhood in paris
+- Its appears that higher the number of Accomodations higher effect on Price.
+- 'Elysee' is the expensive neighbourhood in paris.
 - Its Observed that Property types with bigger homes tend to get consistenly higher rating score.
 
 
