@@ -1,5 +1,5 @@
 
-# Parisian AirBnB Eclairs
+# Parisian Airbnb Eclairs
 
 Airbnb has become a popular platform for short-term vacation rentals, providing an alternative to traditional hotels.
 Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
