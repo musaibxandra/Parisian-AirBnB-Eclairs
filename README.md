@@ -58,12 +58,12 @@ For this Project i've used Python with jupyter notebook to:
 - Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
   #### Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing. Average Price by Accommodations:
 
-![My Local Image](tableau_&_python_imgs/2.png)
+![My Local Image](tableau_&_python_imgs/3.png)
 
 - The most Expensive Neighbourhood
   #### From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
 
-![My Local Image](tableau_&_python_imgs/3.png)
+![My Local Image](tableau_&_python_imgs/2.png)
 
 - Whether certain property types receive consistently higher review scores if so what are these property types
   #### There are indeed certain property types that have consistent good review ratings. Property type and Corresponding Review Ratings:
