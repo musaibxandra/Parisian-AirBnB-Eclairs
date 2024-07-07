@@ -59,6 +59,8 @@ For this Project i've used Python with jupyter notebook to:
 - The most Expensive Neighbourhood
   #### From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
 
+![My Local Image](tableau_&_python_imgs/3.png)
+
 - Whether certain property types receive consistently higher review scores if so what are these property types
   #### There are indeed certain property types that have consistently good review ratings. Property type and Corresponding Review Ratings:
 
