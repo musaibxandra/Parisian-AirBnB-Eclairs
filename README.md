@@ -1,8 +1,8 @@
 
 # Parisian Airbnb Eclairs
 
-Airbnb has become a popular platform for short-term vacation rentals, providing an alternative to traditional hotels.
-Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
+## Airbnb has become a popular platform for short-term vacation rentals, providing an alternative to traditional hotels.
+## Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
 
 ![My Local Image](tableau_&_python_imgs/social.jp2)
 
