@@ -70,7 +70,8 @@ For this Project i've used Python with jupyter notebook to:
 - The number of Accomodations does have an effect on pricing.
 - Its Observed that Property types with bigger homes tend to get consistenly higher rating score.
 
-  ![My Local Image](tableau_&_python_imgs/Dashboard 1-2.png)
+
+![My Local Image](tableau_&_python_imgs/Dashboard 1-2.png)
 
 
 
