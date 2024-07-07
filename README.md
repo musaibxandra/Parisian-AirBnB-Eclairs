@@ -22,9 +22,9 @@ You've been tasked to analyze Paris listings, with a focus on pricing. Managemen
 The Goal is to figure out:
 
 - Is there any chance the Regulations Implemented in 2015 impacted the listings in Paris?
-- What is the Average Cost of Neighbourhoods of Paris?
-- Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
-- Whether certain property types receive consistently higher review scores.
+- The number of Accommodations (Guests the Listing can accommodate) have an effect on Price
+- The most expensive Neighbourhood
+- Whether certain property types receive consistently higher review scores if so what are these property types.
 
 # Data Exploration
 
@@ -47,17 +47,25 @@ For this Project i've used Python with jupyter notebook to:
 # Analytical Tasks Performed
 
 - Is there any chance the Regulations Implemented in 2015 impacted the listings in Paris?
-  Yes,It is likely the property regulations implemented in 2015 impacted the listings in Paris.
+  It is most likely the case that the property regulations implemented in 2015 impacted the listings in Paris.
   Airbnb Listings Over Time:
 
-
+![My Local Image](tableau_&_python_imgs/Airbnb Listings in Paris Over Time.png)
   
-- New Airbnb Listings overtime
-- Average Listing Price by Accomodations
-- Most Expensive Neighbourhood
-- New Airbnb Listings Over Time
-- Count of Listings Over Time
-- Property type and Corresponding Review Ratings
+- Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
+  Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing.
+  Average Price by Accommodations:
+
+- The most Expensive Neighbourhood
+  From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
+
+![My Local Image](tableau_&_python_imgs/Average Price by Accommodations.png)
+
+- Whether certain property types receive consistently higher review scores if so what are these property types
+  There are indeed certain property types that have consistently good review ratings.
+  Property type and Corresponding Review Ratings:
+
+![My Local Image](tableau_&_python_imgs/Property type and Corresponding Review Ratings .png)
 
 # Charts Used For Visualization
 
@@ -71,8 +79,8 @@ For this Project i've used Python with jupyter notebook to:
 ### Breif overview:
 
 - It is likely the property regulations implemented in 2015 impacted the listings in Paris.
-- The Average Cost of Paris Neighbourhood is quite expensive.
-- The number of Accomodations does have an effect on pricing.
+- Its appears that the number of Accomodations indeed have an effect on Price
+- 'Elysee' is the expensive neighbourhood in paris
 - Its Observed that Property types with bigger homes tend to get consistenly higher rating score.
 
 
