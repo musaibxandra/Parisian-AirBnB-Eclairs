@@ -56,16 +56,16 @@ For this Project i've used Python with jupyter notebook to:
   Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing.
   Average Price by Accommodations:
 
+![My Local Image](tableau_&_python_imgs/3.png)
+
 - The most Expensive Neighbourhood
   From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
-
-![My Local Image](tableau_&_python_imgs/Average Price by Accommodations.png)
 
 - Whether certain property types receive consistently higher review scores if so what are these property types
   There are indeed certain property types that have consistently good review ratings.
   Property type and Corresponding Review Ratings:
 
-![My Local Image](tableau_&_python_imgs/Property type and Corresponding Review Ratings .png)
+![My Local Image](tableau_&_python_imgs/4.png)
 
 # Charts Used For Visualization
 
