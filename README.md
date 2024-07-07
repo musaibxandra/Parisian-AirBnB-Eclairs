@@ -44,9 +44,14 @@ For this Project i've used Python with jupyter notebook to:
 - Get rid off all the NA/NAN/Null/missing values.
 - Write a new CSV file with Paris-filtered data and all the neat modifications to further utilized for Visualizations in Tableau.
 
-# Analytical Task Performed
+# Analytical Tasks Performed
 
-- Average Listing Price by Neighbourhood
+- Is there any chance the Regulations Implemented in 2015 impacted the listings in Paris?
+  Yes,It is likely the property regulations implemented in 2015 impacted the listings in Paris.
+  Airbnb Listings Over Time:
+
+
+  
 - New Airbnb Listings overtime
 - Average Listing Price by Accomodations
 - Most Expensive Neighbourhood
