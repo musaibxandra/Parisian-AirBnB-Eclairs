@@ -47,23 +47,20 @@ For this Project i've used Python with jupyter notebook to:
 # Analytical Tasks Performed
 
 - Is there any chance the Regulations Implemented in 2015 impacted the listings in Paris?
-  It is most likely the case that the property regulations implemented in 2015 impacted the listings in Paris.
-  Airbnb Listings Over Time:
+  #### It is most likely the case that the property regulations implemented in 2015 impacted the listings in Paris. Airbnb Listings Over Time:
 
 ![My Local Image](tableau_&_python_imgs/Airbnb Listings in Paris Over Time.png)
   
 - Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
-  Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing.
-  Average Price by Accommodations:
+  #### Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing. Average Price by Accommodations:
 
 ![My Local Image](tableau_&_python_imgs/3.png)
 
 - The most Expensive Neighbourhood
-  From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
+  #### From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
 
 - Whether certain property types receive consistently higher review scores if so what are these property types
-  There are indeed certain property types that have consistently good review ratings.
-  Property type and Corresponding Review Ratings:
+  #### There are indeed certain property types that have consistently good review ratings. Property type and Corresponding Review Ratings:
 
 ![My Local Image](tableau_&_python_imgs/4.png)
 
