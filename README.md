@@ -28,7 +28,9 @@ The Goal is to figure out:
 
 # Data Exploration
 
-The dataset has a multiple table structure with "279712 rows × 33 columns" the dataset is availabel at https://app.mavenanalytics.io/datasets?search=airbnb  our main work evolves around file Listings.csv and Listings_data_dictionary.csv, this dataset is available in the paris_data folder.
+Data Source : https://app.mavenanalytics.io/datasets?search=airbnb
+
+The dataset has a multiple table structure with "279712 rows × 33 columns" since the dataset is about 150+mb it is not available in this github repo, available at https://app.mavenanalytics.io/datasets?search=airbnb  our main work evolves around file Listings.csv and Listings_data_dictionary.csv, this dataset is available in the paris_data folder.
 
 The Relevant Information required to perform the task include:
 
