@@ -6,7 +6,7 @@ Airbnb offers a unique way to experience new destinations, live like a local, an
 
 # Scenario
 
-You're designated as New Performance Analyst for AirBnB, a platform that allows individuals to rent out their homes for travellers.
+You're Designated as New Performance Analyst for AirBnB, a platform that allows individuals to rent out their homes for travellers.
 
 As AirBnB's popularity has surged, it has increasingly become the focus of regulations aimed to limit the number of properties listed in each city.
 
