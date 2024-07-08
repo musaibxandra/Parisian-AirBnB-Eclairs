@@ -7,7 +7,7 @@
 
 ![My Local Image](tableau_&_python_imgs/social.jp2)
 
-
+PYTHON 3.8 | JUPYTER NOTEBOOK | TABLEAU
 
 # Scenario
 
