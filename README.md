@@ -84,7 +84,7 @@ For this Project i've used Python with jupyter notebook to:
 
 - #### The Properties accommodating more than 10 guests demand a 55% higher price on average.
 
-### What are the most Expensive Neighbourhood in paris?
+### What are the most Expensive Neighbourhoods in paris?
 - #### From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
 
 ![My Local Image](tableau_&_python_imgs/2.png)
