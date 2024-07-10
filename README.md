@@ -89,7 +89,7 @@ For this Project i've used Python with jupyter notebook to:
 
 ![My Local Image](tableau_&_python_imgs/2.png)
 
-### Whether certain property types receive consistently higher review scores if so what are these property types
+### Whether certain property types receive consistently higher review scores if so what are these property types?
 - #### There are indeed certain property types that have consistent good review ratings. Property type and Corresponding Review Ratings:
 
 ![My Local Image](tableau_&_python_imgs/4.png)
