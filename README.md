@@ -50,22 +50,46 @@ For this Project i've used Python with jupyter notebook to:
 
 # Analytical Tasks Performed
 
-- Is there any chance the Regulations Implemented in 2015 impacted the listings in Paris?
-  #### It is most likely the case that the property regulations implemented in 2015 impacted the listings in Paris. Airbnb Listings Over Time:
+###  Is there any chance the Regulations Implemented in 2015 impacted the listings in Paris?
+
+- #### It is most likely the case that the property regulations implemented in 2015 impacted the listings in Paris. Airbnb Listings Over Time:
 
 ![My Local Image](tableau_&_python_imgs/main.png)
-  
-- Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
-  #### Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing. Average Price by Accommodations:
+
+
+- #### As it is visible in graph the trend line appears to have steady drop from 2015 and ever since that we can say that paris have become a victim of these regulations when comes to airbnb rentings.
+
+- #### More over since it is a significant drop its important to quantify the analysis, so its worth noting down the actual numbers.
+
+
+- #### --> Percentage Decrease = (( Number of Listings Pre-Regulation - Number of Listings Post-Regulations ) / Number of Listings Post-Regulation ) × 100
+
+- #### --> Percentage Decrease = (( 8911 - 6538 ) / 8911) * 100
+- #### --> Percentage Decrease = 27
+
+
+- #### A Conclusion can be drawn that results in a 27% decrease in available listings post-regulations in paris.
+
+
+
+### Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
+- #### Obseerved Analysis Points to the fact that number of accommodations have much effect on pricing. Average Price by Accommodations:
 
 ![My Local Image](tableau_&_python_imgs/3.png)
 
-- The most Expensive Neighbourhood
+- #### There is drastic change in pricing from the accomodation capacity 10-14.
+- #### --> Percentage Increase = (( Average Price (More than 10 Guests) − Average Price (Up to 10 Guests) ) / Average Price Upto 10 Guests ) x 100
+- #### --> Percentage Increase = (( 777.4 - 500.9 )/ 500.9) x 100
+- #### --> Percentage Increase = 55
+
+- #### The Properties accommodating more than 10 guests demand a 55% higher price on average.
+
+### What are the most Expensive Neighbourhood in paris?
   #### From the listings 'Elysee' has turned out to be the most expensive neighbourhood in paris.
 
 ![My Local Image](tableau_&_python_imgs/2.png)
 
-- Whether certain property types receive consistently higher review scores if so what are these property types
+### Whether certain property types receive consistently higher review scores if so what are these property types
   #### There are indeed certain property types that have consistent good review ratings. Property type and Corresponding Review Ratings:
 
 ![My Local Image](tableau_&_python_imgs/4.png)
