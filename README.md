@@ -1,7 +1,7 @@
 
 # Parisian Airbnb Eclairs
 
-#### Airbnb has become a popular platform for short-term vacation rentals, providing an alternative to traditional hotels. Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
+#### Airbnb has become a popular platform for short-term vacation rentals, it is like an alternative to traditional hotels. Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
 
 
 
@@ -13,7 +13,7 @@ PYTHON 3.8 | JUPYTER NOTEBOOK | TABLEAU
 
 You're Designated as New Performance Analyst for AirBnB, a platform that allows individuals to rent out their homes for travellers.
 
-As AirBnB's popularity has surged, it has increasingly become the focus of regulations aimed to limit the number of properties listed in each city.
+As AirBnB's popularity has surged, it has become the focus of regulations that limits the number of properties listed in each city.
 
 You've been tasked to analyze Paris listings, with a focus on pricing. Management seeks graphical overview of factors influencing pricing and whether the regulations implemented in 2015 impacted listings in the Paris.
 
