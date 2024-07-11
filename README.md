@@ -11,11 +11,11 @@ Python 3.8 | Jupyter notebook | Tableau
 
 # Scenario
 
-You're Designated as New Performance Analyst for AirBnB, a platform that allows individuals to rent out their homes for travellers.
+Airbnb has Designated a New Performance Analyst, a platform that allows individuals to rent out their homes for travellers.
 
 As AirBnB's popularity has surged, it has become the focus of regulations that limits the number of properties listed in each city.
 
-You've been tasked to analyze Paris listings, with a focus on pricing. Management seeks graphical overview of factors influencing pricing and whether the regulations implemented in 2015 impacted listings in the Paris.
+The New Performance Analyst has been tasked to analyze Paris listings, with a focus on pricing. Management seeks graphical overview of factors influencing pricing and whether the regulations implemented in 2015 impacted the listings in the Paris.
 
 # Objective
 
