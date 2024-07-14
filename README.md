@@ -7,7 +7,7 @@ Python 3.8 | Jupyter notebook | Tableau
 
 # Scenario
 
-#### Airbnb has become a popular platform for short-term vacation rentals, it is like an alternative to traditional hotels. Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
+Airbnb has become a popular platform for short-term vacation rentals, it is like an alternative to traditional hotels. Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
 
 Airbnb has Designated a New Performance Analyst, a platform that allows individuals to rent out their homes for travellers.
 
