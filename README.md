@@ -118,6 +118,8 @@ For this Project i've used Python with jupyter notebook to:
 
 - #### A Conclusion can be drawn that results in a 27% decrease in available listings post-regulations in paris.
 
+![My Local Image](tableau_&_python_imgs/5.png)
+
 
 
 ### Does the number of Accomodations (Guests the Listing can accomodate) have an effect on Price?
