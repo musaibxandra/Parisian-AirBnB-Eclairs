@@ -51,7 +51,6 @@ The Goal is to figure out:
       +-------------------------+
       | - Connect to Database   |
       | - Data Transformations  |
-      | - Join Tables           |
       | - Aggregate Data        |
       | - Filter and Sort Data  |
       +-------------------------+
