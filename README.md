@@ -25,6 +25,56 @@ The Goal is to figure out:
 - The most expensive Neighbourhood
 - Whether certain property types receive consistently higher review scores if so what are these property types.
 
+# Workflow
+
+
+      +-------------------------+
+      |          Start          |
+      +-------------------------+
+                |
+                v
+      +-------------------------+
+      | Data Cleaning           |
+      | Tools: Python, Pandas   |
+      +-------------------------+
+      | - Load Data             |
+      | - Handle Missing Values |
+      | - Correct Data Types    |
+      | - Remove Duplicates     |
+      | - Normalize Data        |
+      +-------------------------+
+                |
+                v
+      +-------------------------+
+      | Data Manipulations      |
+      | Tools: SQL, PostgreSQL  |
+      +-------------------------+
+      | - Connect to Database   |
+      | - Data Transformations  |
+      | - Join Tables           |
+      | - Aggregate Data        |
+      | - Filter and Sort Data  |
+      +-------------------------+
+                |
+                v
+      +-------------------------+
+      | Data Visualizations     |
+      | Tools: Tableau          |
+      +-------------------------+
+      | - Connect to Data Source|
+      | - Create Charts/Graphs  |
+      | - Build Dashboards      |
+      | - Share/Publish         |
+      +-------------------------+
+                |
+                v
+      +-------------------------+
+      |           End           |
+      +-------------------------+
+
+
+
+
 # Data Exploration
 
 Data Source : https://app.mavenanalytics.io/datasets?search=airbnb
