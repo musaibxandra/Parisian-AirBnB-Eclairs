@@ -25,7 +25,7 @@ The Goal is to figure out:
 - The most expensive Neighbourhood
 - Whether certain property types receive consistently higher review scores if so what are these property types.
 
-# Workflow
+# WorkFlow
 
 
       +-------------------------+
