@@ -3,7 +3,6 @@
 
 ![My Local Image](tableau_&_python_imgs/social.jp2)
 
-Airbnb has become a popular platform for short-term vacation rentals, it is like an alternative to traditional hotels. Airbnb offers a unique way to experience new destinations, live like a local, and enjoy a more personalized travel experience.
 
 
 Req: Python 3.8 | Jupyter notebook | Tableau
