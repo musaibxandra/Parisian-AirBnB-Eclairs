@@ -5,8 +5,6 @@
 
 # Parisian Airbnb Eclairs
 
-![My Local Image](tableau_&_python_imgs/social.jp2)
-
 
 
 Req: Python 3.8 | Jupyter notebook | Tableau
