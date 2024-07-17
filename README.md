@@ -1,3 +1,5 @@
+![My Local Image](tableau_&_python_imgs/Dashboard.png)
+
 
 # Parisian Airbnb Eclairs
 
